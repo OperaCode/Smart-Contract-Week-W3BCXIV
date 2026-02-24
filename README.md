@@ -18,22 +18,26 @@ This repository tracks smart contract development activities and progress on a w
 ## Daily Log
 
 ### Week 1
-| Day | Date | Tasks | Status |
-|-----|------|-------|--------|
-| Monday | - | - | ⬜ |
-| Tuesday | - | - | ⬜ |
-| Wednesday | - | - | ⬜ |
-| Thursday | - | - | ⬜ |
-| Friday | - | - | ⬜ |
+| Day       | Date       | Tasks       | Status  |
+|-----------|------------|-------------|---------|
+| Monday    | ---------- | ----------- |    ⬜    | 
+| Tuesday   | ---------- | ----------- |    ⬜    |
+| Wednesday | ---------- | ----------- |    ⬜    |
+| Thursday  | ---------- | ----------- |    ⬜    |
+| Friday    | ---------- | ----------- |    ⬜    |
+
+
 
 ### Week 2
-| Day | Date | Tasks | Status |
-|-----|------|-------|--------|
-| Monday | - | - | ⬜ |
-| Tuesday | - | - | ⬜ |
-| Wednesday | - | - | ⬜ |
-| Thursday | - | - | ⬜ |
-| Friday | - | - | ⬜ |
+| Day       | Date       | Tasks       | Status  |
+|-----------|------------|-------------|---------|
+| Monday    | ---------- | ----------- |    ⬜    | 
+| Tuesday   | ---------- | ----------- |    ⬜    |
+| Wednesday | ---------- | ----------- |    ⬜    |
+| Thursday  | ---------- | ----------- |    ⬜    |
+| Friday    | ---------- | ----------- |    ⬜    |
+
+
 
 ## Notes
 - Document key learnings
